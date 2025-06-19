@@ -134,6 +134,7 @@
     }
 
     .tech-stack-details {
+        background-color: var(--bg-dark);
         width: 100%;
     }
 
@@ -146,6 +147,7 @@
     }
 
     .exp-card {
+         background-color: var(--bg-dark);
         width: 99%;
         padding-top: 5%;
         padding-bottom: 5%;

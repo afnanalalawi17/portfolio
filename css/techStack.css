@@ -5,6 +5,7 @@
     padding-top: 8%;
     padding-bottom: 8%;
     padding-left: 8%;
+        background-color: var(--bg-dark);
 }
 
 .tech {
@@ -48,11 +49,13 @@
 }
 
 .label-stack {
+      background-color: var(--bg-dark);
     font-size: 10px;
     color: var(--text-light);
 }
 
 .tech-row {
+      background-color: var(--bg-dark);
     display: flex;
     flex-wrap: wrap;
 }

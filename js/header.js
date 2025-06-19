@@ -8,8 +8,8 @@ function mapMetaDataInHeader() {
     var tagElement = document.getElementById("tag-label");
     tagElement.innerText = 'Software Engineer';
 
-    let firstName = 'Muhammad';
-    let lastName = 'Hamza';
+    let firstName = 'Afnan';
+    let lastName = 'Alalawi';
 
     var firstNameElement = document.getElementById("first-name");
     firstNameElement.innerHTML = firstName;
@@ -23,28 +23,28 @@ function mapSocialLinksData() {
     let socials = [
         {
             "icon": "fa fa-linkedin-square",
-            "value": "https://linkedin.com/in/mhmzdev"
+            "value": "https://www.linkedin.com/in/afnan-alalawi-2a1b14192/"
         },
         {
             "icon": "fa fa-github",
-            "value": "https://github.com/mhmzdev"
+            "value": "https://github.com/afnanalalawi17"
         },
-        {
-            "icon": "fa fa-medium",
-            "value": "https://mhmzdev.medium.com"
-        },
-        {
-            "icon": "fa fa-facebook-square",
-            "value": "https://facebook.com/mhmzdev"
-        },
-        {
-            "icon": "fa fa-instagram",
-            "value": "https://instagram.com/mhmzdev"
-        },
-        {
-            "icon": "fa fa-twitter",
-            "value": "https://twitter.com/mhmzdev"
-        }
+        // {
+        //     "icon": "fa fa-medium",
+        //     "value": "https://mhmzdev.medium.com"
+        // },
+        // {
+        //     "icon": "fa fa-facebook-square",
+        //     "value": "https://facebook.com/mhmzdev"
+        // },
+        // {
+        //     "icon": "fa fa-instagram",
+        //     "value": "https://instagram.com/mhmzdev"
+        // },
+        // {
+        //     "icon": "fa fa-twitter",
+        //     "value": "https://twitter.com/mhmzdev"
+        // }
     ];
 
     // icons in top section
@@ -97,7 +97,7 @@ function mapStatsData() {
             "text-2": "Experience"
         },
         {
-            "value": "45+",
+            "value": "25+",
             "text-1": "Projects Completed",
             "text-2": "in 10+ Countries"
         },

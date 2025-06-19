@@ -13,6 +13,15 @@ function mapTechData() {
             "name": "Dart",
             "icon": "images/tech/dart.svg",
             "type": "mobile-tech"
+        }, {
+            "name": "JAVA",
+            "icon": "images/tech/icons8-java-24.svg",
+            "type": "mobile-tech"
+        }, 
+        {
+            "name": "Swift",
+            "icon": "images/tech/icons8-swift-2.svg",
+            "type": "mobile-tech"
         },
         {
             "name": "HTML 5",
@@ -34,19 +43,19 @@ function mapTechData() {
             "icon": "images/tech/js.svg",
             "type": "web-tech"
         },
-        {
-            "name": "Flask Restful",
-            "icon": "images/tech/flask.svg",
+       
+         {
+            "name": "PHP",
+            "icon": "images/tech/icons8-php-logo-2.svg",
             "type": "server-tech"
         },
-        {
-            "name": "Node.js",
-            "icon": "images/tech/node.svg",
+         {
+            "name": "Python",
+            "icon": "images/tech/icons8-python-2.svg",
             "type": "server-tech"
-        },
-        {
-            "name": "Express.js",
-            "icon": "images/tech/express.svg",
+        },  {
+            "name": "C#",
+            "icon": "images/tech/icons8-c-sharp-logo.svg",
             "type": "server-tech"
         },
         {
@@ -63,17 +72,13 @@ function mapTechData() {
             "name": "Firebase",
             "icon": "images/tech/firebase.svg",
             "type": "database-tech"
-        },
-        {
-            "name": "MongoDB",
-            "icon": "images/tech/mongo.svg",
+        }, {
+            "name": "MYSQL",
+            "icon": "images/tech/firebase.svg",
             "type": "database-tech"
         },
-        {
-            "name": "Postgres SQL",
-            "icon": "images/tech/sql.svg",
-            "type": "database-tech"
-        },
+      
+        
         {
             "name": "GitHub",
             "icon": "images/tech/github.svg",
@@ -89,16 +94,7 @@ function mapTechData() {
             "icon": "images/tech/notion.svg",
             "type": "vc-tech"
         },
-        {
-            "name": "Figma",
-            "icon": "images/tech/figma.svg",
-            "type": "design-tech"
-        },
-        {
-            "name": "Adobe XD",
-            "icon": "images/tech/adobexd.svg",
-            "type": "design-tech"
-        }
+       
     ];
 
     for (var i = 0; i < tech.length; i++) {

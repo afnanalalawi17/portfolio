@@ -7,13 +7,13 @@ function mapContactDetails() {
     let contactInfo = [
         {
             "icon": "fa fa-phone",
-            "label": "+92 346 0159889",
-            "link": "https://wa.me/923460159889"
+            "label": "+966566220639",
+            "link": "https://wa.me/966566220639"
         },
         {
             "icon": "fa fa-envelope",
-            "label": "hamza.6.shakeel@gmail.com",
-            "link": "mailto:hamza.6.shakeel@gmail.com"
+            "label": "afalalawi@hotmail.com",
+            "link": "mailto:afalalawi@hotmail.com"
         }
     ];
 
@@ -51,7 +51,7 @@ function mapContactDetails() {
 }
 
 function onMeetClick() {
-    window.open("https://calendly.com/mhmzdev/meet", '_blank');
+    window.open("https://calendly.com/afnan-alalawi1417", '_blank');
 }
 
 function currentDate() {

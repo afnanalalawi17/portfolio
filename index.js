@@ -86,5 +86,10 @@ function onScroll(event) {
 }
 
 function downloadResume() {
-    window.open("https://mhmz.dev/resume", "_blank");
+    window.open("https://drive.google.com/file/d/1LWC0PG2DSR8OkEgyycl6NQ2KbqTvKOKG/view?usp=sharing", "_blank");
+}
+
+
+function downloadResumeEnglish() {
+    window.open("https://drive.google.com/file/d/1PfJ-6fdyCBYteAKPOA2bkXVLEO7LDKzh/view?usp=sharing", "_blank");
 }

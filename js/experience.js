@@ -7,192 +7,104 @@ function mapExperienceData() {
 
     let exp = [
         {
-            "org": "Sastaticket.pk",
-            "position": "Senior Software Engineer I",
-            "duration": "Jan 2022 - Present",
+            "org": "Al-Jeraisy Electronic Services",
+            "position": "Senior Software Engineer ",
+            "duration": "March 2023 - Present",
             "technologies": [
-                "Flutter",
-                "Dart",
-                "GitHub Actions",
-                "Supabase",
-                "Firebase",
-                "Fintech - Payments",
-                "REST APIs",
-                "Dart package"
+                // "Flutter",
+                // "GitHub Actions",
+                // "Mobile app development",
+                // "Firebase",
+                // "Integration with Nafath",
+                // "REST APIs",
+                // "Dart package",
+                // "Google maps",
+                // "SMS integration", 
+                // "MVP Development",
+                // "Agile Methodology",
+
             ],
             "details": [
-                "Working with flutter_bloc state management, alongside provider to maintain local states and global use cases",
-                "Integrated payment gateways into flutter app with REST APIs",
-                "Handled local packages to maintain custom components and to maintain API architecture",
-                "Maintaining layered architecture for better encapsulation and abstraction of code from Application layer to domain layer and to data layer",
-                "Learned GitHub actions for CI/CD",
-                "Worked with various env. flavors in flutter app (dev, qa, stage, prod)",
-                "Learned concepts like ACL (Application Constant Lookup) for maintaining features in live app",
-                "Integration of REST APIs, Firebase and local cached concepts for better user experience",
-                "Added features in huge code base with scalability in mind, along with other concepts of OOP and design pattern.",
-                "Learned project management tools like Jira and Mural",
-                "Worked in Agile software methodology, worked in sprints and different team structures like Squads.",
-                "Helped in interviews and expanding team of developers."
+                "Developing an administrative app for employee management",
+                "Adding the Prayer Times service to the Tawakkalna app",
+                "Integrating the Itikaf Permit display service in Tawakkaln",
+                "Implementing the Arafat Sermon streaming feature in multiple languages in Tawakkalna.",
+                "Contributing to the Cart Booking App for the Grand Mosque.",
+                "Supporting the development of a comprehensive app integrating all Authority services, such as permits, reporting, and navigation.",
+
             ]
         },
         {
-            "org": "Dexplat | PK",
-            "position": "Co-Founder & Technical Lead",
-            "duration": "May 2022 - Present",
+            "org": "Ikram Food Preservation Association",
+            "position": "Senior Software Engineer ",
+            "duration": "Aug 2022 - Present",
             "technologies": [
-                "UI/UX Design",
-                "Mobile app development",
-                "Web development",
-                "SQA & Testing",
-                "Project Management",
-                "MVP Development",
-                "Rapid Prototyping",
-                "Agile Methodology",
+                //  "Firebase",
+                //   "Flutter",
+                // "GitHub Actions",
+                // "REST APIs",
+                // "Dart package",
+                // "Google maps",
+              
+                // "Web development",
+                // "Testing",
+                // "PHP",
+                
+                // "Project Management", 
             ],
             "details": [
-                "Started this venture of mine 2 years ago with a vision of providing best services and opportunities to the youth of Pakistan",
-                "Working as co-founder and managing the role of technical lead at Dexplat Technologies",
-                "Team management and handling the development of the products",
-                "Providing services to various clients across the globe in various niches",
-                "Specialized in Flutter and Dart for app development",
-                "Handling the backend and frontend of the products",
-                "Developing and maintaining the products with the best practices",
-                "Following the agile methodology for the development of the products",
-                "Rapid development and Rapid testing process to handle MVPs and their quick releases",
-                "Handling the team of developers and providing them with the best practices",
-                "Handling the client communication and providing them with optimal solutions possible",
+                "Developed three mobile applications using Flutter to manage surplus food collection from various sources (hotels, restaurants, events) and distribute it efficiently to families in need.",
+                "Built a volunteer opportunity management system, enabling volunteer registration and engagement tracking.",
+                "Developed an integrated admin dashboard to manage app activation and operations, with capabilities to generate detailed reports and analytics on food collection and distribution activities.",
+               
             ]
         },
         {
-            "org": "Donation App | UK",
-            "position": "Consultant & Software Engineer",
-            "duration": "Aug 2021 - Aug 2022",
+            "org": "HyperTech Information Technology",
+             "position": "Senior Software Engineer ",
+            "duration": " 2021 -  2023",
             "technologies": [
-                "Flutter/Dart",
-                "GitHub Actions",
-                "Firebase",
-                "Stripe/PayPal",
-                "REST APIs",
-                "Cloud functions",
-                "Node.js",
-                "Express.js",
+                // "Flutter/Dart",
+                // "GitHub Actions",
+                // "Firebase",
+                // "Stripe/PayPal",
+                // "REST APIs",
+                // "Cloud functions",
+                // "Node.js",
+                // "Express.js",
             ],
             "details": [
-                "Developed first MVP for android application",
-                "Upgraded MVP to latest flutter SDK as the MVP was developed in flutter 1.x.x",
-                "Currently handling the BETA version for the mobile app using flutter (android/iOS) both",
-                "Written cloud functions on firebase to handling some of the backend logic that needs to be separated from mobile application layer",
-                "Developed web application using flutter for registrations of charities and marketing purposes",
-                "Add stripe and paypal as payment gateways",
-                "Followed bloc architecture and state management for scalable application",
-                "Currently handling keen operations for penetration testing",
-                "Implemented caching techniques for better UX",
+                "Built an app for beauty salons and cosmetic clinics",
+                "Built an app for shopping centers to handle permits and violations",
+                "Built an app to generate electronic tax and non-tax invoices",
+                "Built a web app for selling perfume products",
+                "Built a web app for electronics e-commerce",
+                "Built a web app for pet product sales",
+                "Built an app for safe cargo transportation with additional services",
+                "Built Mohami app for lawyer communication and secure document upload.",
+                
             ]
         },
         {
-            "org": "Eja Rides | Albania",
-            "position": "Consultant & Lead Mobile Developer",
-            "duration": "Sep 2022 - Jan 2023",
+            "org": "Ibtikar Soft Information Technology",
+             "position": "Senior Software Engineer ",
+            "duration": " 2020 -  2021",
             "technologies": [
-                "Flutter",
-                "Dart",
-                "GitHub Actions",
-                "Firebase",
-                "Fintech - Payments",
-                "REST APIs",
-                "GraphQL",
+              
             ],
             "details": [
-                "Upgraded the application to complete new UI and UX",
-                "Uplifted the mobile apps architecture for better performance and better code structure",
-                "Integrated REST and GraphQL structures of APIs for various purposes",
-                "Added Monri payment gateway for testing purposes as this was commonly used in Albania and nearest regions",
-                "Consulted for better UI and UX for new design for both the mobile apps",
-                "Handled code-sharing concept as there were two mobile apps involved i.e. Driver and Rider app",
-                "Keen discussion with stakeholders on how to improve the product overall",
-                "Helped hiring and taking interviews for increasing the team count",
+                "Built an app for car booking services.",
+                "Built an app to support productive families and showcase their products",
+                "Built an app for café appointment booking with delivery or pickup options",
+                "Built an app for pet care scheduling, shopping, and other services",
+                "Built an app for performing Umrah rituals on behalf of others",
+                "Built a news delivery app",
+                "Built a car wash booking app",
+                "Built a violations monitoring app for the Ministry of Municipal Affairs",
+                "Built a healthcare services app"
             ]
         },
-        {
-            "org": "ZOffers | India",
-            "position": "Consultant mobile app",
-            "duration": "Jul 2022 - Aug 2022",
-            "technologies": [
-                "Flutter",
-                "Dart",
-                "Firebase",
-                "Bit-Bucket",
-                "Fintech - Payments",
-                "REST APIs",
-            ],
-            "details": [
-                "Consultation for mobile team and interns for writing better code",
-                "Better ways of handling complex code base and improve architecture",
-                "Reviewing PRs of the mobile team",
-                "Overall consulation for mobile app development",
-            ]
-        },
-        {
-            "org": "Sastaticket.pk",
-            "position": "SWE Intern",
-            "duration": "Oct 2021 - Jan 2022",
-            "technologies": [
-                "Flutter",
-                "Dart",
-                "Supabase",
-                "Firebase"
-            ],
-            "details": [
-                "Learned state management concepts like Bloc, futter bloc and provider",
-                "Worked with layered architecture",
-                "Integrated Supabase in flutter app",
-                "Used external packages for managing form input concepts - flutter_form_builder",
-                "Learned GitHub (Version Controlling) with a team, concepts like maintaining PRs, branches etc.",
-                "Improved concepts of reusable components"
-            ]
-        },
-        {
-            "org": "Storius | Hong Kong",
-            "position": "Flutter/Dart Intern",
-            "duration": "Nov 2020 - Jan 2021",
-            "technologies": [
-                "Flutter",
-                "Dart",
-                "App script",
-                "Google maps"
-            ],
-            "details": [
-                "Developed first BETA version of storius app",
-                "Integrated Google sheets with App scripts that act as SQL database",
-                "Managed two different source of data into the app to overcome the place of Firebase",
-                "Learned and implemented MVC architecture for production level of application",
-                "Integrated Google maps, live markers and interaction of users with it",
-                "Added audio players on Google maps posted by users",
-                "Enhanced UX of beta version till 3rd revision",
-                "Helped in expanding team of developers with various resources"
-            ]
-        },
-        {
-            "org": "Multi TeleSoft | PK",
-            "position": "Lead Flutter Developer",
-            "duration": "Feb 2020 - Apr 2020",
-            "technologies": [
-                "Flutter",
-                "Dart",
-                "Google maps",
-                "SMS integration",
-                "Live locations",
-                "Firebase auth",
-                "Firebase real-time"
-            ],
-            "details": [
-                "Learned real-time location alerts using firebase real-time db",
-                "Integrated Google Maps",
-                "Firebase authentication via phone number",
-                "MVC architecture based application",
-                "Deployment on play store"
-            ]
-        }
+       
     ];
 
     for (var i = 0; i < exp.length; i++) {
@@ -219,18 +131,18 @@ function mapExperienceData() {
         if (orgName.innerHTML == "Dexplat | PK") {
             technologiesHeading.innerHTML = "Services";
         } else {
-            technologiesHeading.innerHTML = "Technologies";
+            // technologiesHeading.innerHTML = "Technologies";
         }
 
         var technologiesList = document.createElement("ul");
         technologiesList.className = "exp-tech-list";
 
-        for (var k = 0; k < exp[i]["technologies"].length; k++) {
-            var techName = document.createElement("li");
-            techName.className = "body2 exp-tech-item";
-            techName.innerHTML = exp[i]["technologies"][k];
-            technologiesList.appendChild(techName);
-        }
+        // for (var k = 0; k < exp[i]["technologies"].length; k++) {
+        //     var techName = document.createElement("li");
+        //     techName.className = "body2 exp-tech-item";
+        //     techName.innerHTML = exp[i]["technologies"][k];
+        //     technologiesList.appendChild(techName);
+        // }
         expMetaDiv.appendChild(orgName);
         expMetaDiv.appendChild(position);
         expMetaDiv.appendChild(session);
